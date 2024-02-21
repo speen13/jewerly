@@ -1,0 +1,10 @@
+.user_ac {
+    margin-bottom: 50px;
+
+}
+
+.user_store {
+display: flex;
+    justify-content: space-evenly;
+}
+

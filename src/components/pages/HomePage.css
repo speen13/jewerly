@@ -1,0 +1,75 @@
+.navHeader {
+    width: 375px;
+    height: 46px;
+    padding: 0px 16px 0px 16px;
+    position: fixed;
+    top: 0px;
+
+    z-index: 1;
+    background-color: #ffff;
+
+
+
+
+
+
+}
+
+.navIcons {
+
+    color:  #D89D2A;
+    font-size: 24px;
+    font-family: "Libre Caslon Text", serif;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.name {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.info_catigories {
+    width: 375px;
+    height: 120px;
+}
+
+.catigories {
+
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
+.catigories p {
+    font-family: 'fantasy';
+    font-size: 18px;
+
+}
+.chat_boks {
+    background-color:  #D89D2A;
+    width: 44px;
+    height: 44px;
+    border-radius: 21px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-left: 307px;
+
+
+}
+.chat_boks img {
+    width: 24px;
+    height: 24px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.up {
+    margin-bottom:40px;
+}
+.icon_user {
+    cursor: pointer;
+}
+
+
